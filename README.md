@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Full stack web-application**
 
-- 🌱 I’m currently learning **PyTorch,Prisma**
+- 🌱 I’m currently learning **Golang,Prisma, No-code**
 
-- 👯 I’m looking to collaborate on **More Full stack related projects**
+- 👯 I’m looking to collaborate on **More Full stack related projects | Sass as a Product development**
 
-- 💬 Ask me about **react, vue and gsap**
+- 💬 Ask me about **react, vue and gsap | Machine learning, NO-code, Data science**
 
 - 📫 How to reach me **pranavsinghrajput987@gmail.com**
 
