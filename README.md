@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react, vue and gsap | Machine learning, NO-code, Data science**
 
-- 📫 How to reach me **pranavsinghrajput987@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/pranav-rajput989**
 
 - ⚡ Fun fact **I think it's interesting**
 
