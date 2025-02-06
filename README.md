@@ -5,8 +5,6 @@
 
 <br/>
 
-[![MasterHead](https://imgs.search.brave.com/J5QFrN5k1pHlWYcKUj63K_40UzJbroyUDs6-goyBSlo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jb2Rlci1kZXZl/bG9waW5nLWFuaW1h/dGVkLWh0bWw1LWNh/bnZhcy1keW5hbWlj/LWRpZ2l0YWwtY29u/dGVudC1jcmVhdGlv/bl8xMTY2MTc3LTEz/ODc1LmpwZz9zaXpl/PTYyNiZleHQ9anBn)]
-<h1 align="center">Hi 👋, I'm Pranav Rajput</h1>
 <h3 align="center">Data Science Enthusiast | Passionate Full Stack Developer | Bridging Insights with Innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav970&label=Profile%20views&color=0e75b6&style=flat" alt="pranav970" /> </p>
