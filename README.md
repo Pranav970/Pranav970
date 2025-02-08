@@ -90,9 +90,7 @@
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/>
   </a>
-  <a href="https://mlops.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/machine-learning.svg" alt="machine-learning" width="40" height="40"/>
-  </a>
+  
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav970&show_icons=true&locale=en&layout=compact" alt="pranav970" /></p>
 
