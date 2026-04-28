@@ -12,17 +12,14 @@
 
 <p align="left"> <a href="https://twitter.com/@pranavr93003858" target="blank"><img src="https://img.shields.io/twitter/follow/@pranavr93003858?logo=twitter&style=for-the-badge" alt="@pranavr93003858" /></a> </p>
 
-- 🔭 I’m currently working on **Full stack web-application**
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Golang,Prisma, No-code**
-
-- 👯 I’m looking to collaborate on **More Full stack related projects | Sass as a Product development**
-
-- 💬 Ask me about **react, vue and gsap | Machine learning, NO-code, Data science**
-
-- 📫 How to reach me **www.linkedin.com/in/pranav-rajput989**
-
-- ⚡ Fun fact **I think it's interesting**
+- 🔭 Currently building **Full Stack Web Applications**
+- 🌱 Learning **Golang, Prisma & System Design**
+- 🧠 Exploring **Machine Learning & Data Analytics**
+- 🤝 Open to collaborating on **Scalable Products & SaaS Projects**
+- 💬 Ask me about **React, Node.js, ML & APIs**
+- ⚡ Fun fact: I turn ideas into working products 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
