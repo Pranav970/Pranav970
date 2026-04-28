@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
 <!-- Profile Header -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Pranav;Programmer+💻;DS+Ai_enthusiast+🌐;Open+Src+Enthusiast+🤖" alt="Typing SVG" />
