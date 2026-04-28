@@ -6,11 +6,9 @@
 
 <br/>
 
-<h3 align="center">🚀 Full Stack Developer | 🤖 Data Science Enthusiast | ⚡ Building Scalable & Intelligent Systems</h3>
+<h3 align="center">Data Science Enthusiast | Passionate Full Stack Developer | Bridging Insights with Innovation</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranav970&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav970&label=Profile%20views&color=0e75b6&style=flat" alt="pranav970" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@pranavr93003858" target="blank"><img src="https://img.shields.io/twitter/follow/@pranavr93003858?logo=twitter&style=for-the-badge" alt="@pranavr93003858" /></a> </p>
 
