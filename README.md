@@ -12,9 +12,10 @@
 
 <p align="left"> <a href="https://twitter.com/@pranavr93003858" target="blank"><img src="https://img.shields.io/twitter/follow/@pranavr93003858?logo=twitter&style=for-the-badge" alt="@pranavr93003858" /></a> </p>
 
+## 🧪 Currently Building
+- 🚀 SaaS Product (Confidential Mode 👀)
+- 🤖 AI-based automation tool
 ## 👨‍💻 About Me
-
-- 🔭 Currently building **Full Stack Web Applications**
 - 🌱 Learning **Golang, Prisma & System Design**
 - 🧠 Exploring **Machine Learning & Data Analytics**
 - 🤝 Open to collaborating on **Scalable Products & SaaS Projects**
