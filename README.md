@@ -34,42 +34,14 @@
 <a href="https://medium.com/@pranavrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pranavrajput" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
+## 🛠 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,nodejs,express,mysql,tensorflow,sklearn,git,snowflake" />
   </a>
 </p>
 
-### 🌐 Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css" />
-  </a>
-</p>
 
-### ⚙️ Backend & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
-  </a>
-</p>
-
-### 🧠 Data & ML
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" />
-  </a>
-</p>
-
-### 🛠 Dev Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,snowflake" />
-  </a>
-</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav970&show_icons=true&locale=en" alt="pranav970" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav970&" alt="pranav970" /></p>
