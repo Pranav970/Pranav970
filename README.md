@@ -72,6 +72,8 @@
 </p>
 
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav970&show_icons=true&locale=en" alt="pranav970" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav970&" alt="pranav970" /></p>
