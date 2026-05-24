@@ -36,39 +36,19 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+**Languages & Frameworks**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,vue,nextjs,nodejs,express" />
 </p>
 
-### 🌐 Frontend
+**Tools & Infrastructure**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws,firebase,gcp,vercel,render,netlify,git,github,gitlab,docker" />
 </p>
 
-### ⚙️ Backend & Tools
+**Libraries & Others**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
-  </a>
-</p>
-
-### 🧠 Data & ML
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" />
-  </a>
-</p>
-
-### 🛠 Dev Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,snowflake" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=bootstrap,mongodb,vite,threejs,socketio" />
 </p>
 
 
