@@ -12,6 +12,10 @@ on:
     - master
     - main
 
+# Explicitly grant write access to pull/push repo content
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
