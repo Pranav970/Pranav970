@@ -83,30 +83,4 @@
   </picture>
 </p>
 <!-- Trophies code new-->
-<div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=pranav970&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Pranav's GitHub Stats" height="180" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav970&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180" />
-  </a>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/andryo/andryo/master/assets/line-neon.gif" width="100%" alt="Red Line Divider" />
-  </p>
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav970&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Pranav's Contribution Graph" />
-  </a>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/andryo/andryo/master/assets/line-neon.gif" width="100%" alt="Red Line Divider" />
-  </p>
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://streak-stats.demolab.com/?user=pranav970&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Tracker" width="100%" />
-  </a>
-
-</div>
