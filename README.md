@@ -83,4 +83,3 @@
   </picture>
 </p>
 <!-- Trophies code new-->
-
