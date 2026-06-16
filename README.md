@@ -51,9 +51,7 @@
   <img src="https://skillicons.dev/icons?i=bootstrap,mongodb,vite,threejs,socketio" />
 </p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav970&" alt="pranav970" /></p>
-
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -82,4 +80,3 @@
     <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/pranav970/pranav970/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-<!-- Trophies code new-->
