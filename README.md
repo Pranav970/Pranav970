@@ -74,9 +74,14 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav970/pranav970/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav970/pranav970/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/pranav970/pranav970/output/github-contribution-grid-snake.svg">
-  </picture>
+ <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Pranav970/Pranav970/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Pranav970/Pranav970/output/pacman-contribution-graph.svg">
+
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/Pranav970/Pranav970/output/pacman-contribution-graph.svg">
+</picture>
 </p>
