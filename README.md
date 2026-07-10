@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/@pranavr93003858" target="blank"><img src="https://img.shields.io/twitter/follow/@pranavr93003858?logo=twitter&style=for-the-badge" alt="@pranavr93003858" /></a> </p>
 
-<p align="center">
+
 ## 🧪 Currently Building
 - 🚀 SaaS Product (Confidential Mode 👀)
 - 🤖 AI-based automation tool
@@ -24,7 +24,7 @@
 - 🤝 Open to collaborating on **Scalable Products & SaaS Projects**
 - 💬 Ask me about **React, Node.js, ML & APIs**
 - ⚡ Fun fact: I turn ideas into working products 🚀
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
