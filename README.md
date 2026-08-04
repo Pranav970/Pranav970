@@ -18,6 +18,7 @@
 ## 🧪 Currently Building
 - 🚀 SaaS Product (Confidential Mode 👀)
 - 🤖 AI-based automation tool
+- 🐾 Working on the architecture and development of AI-Gateway
 
 
 ## 👨‍💻 About Me
