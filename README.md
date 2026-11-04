@@ -22,7 +22,7 @@
 
 
 ## 👨‍💻 About Me
-- 🌱 Learning **Golang, Prisma & System Design**
+- 🌱 Learning **Rust, Claude & System Design**
 - 🧠 Exploring **Machine Learning & Data Analytics**
 - 🤝 Open to collaborating on **Scalable Products & SaaS Projects**
 - 💬 Ask me about **React, Node.js, ML & APIs**
