@@ -10,8 +10,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&logo=github&color=24292e)](https://github.com/YOUR_USERNAME?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Pranav970&label=Profile%20Views&color=0e75b6&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/Pranav970?style=flat-square&logo=github&color=24292e)](https://github.com/Pranav970?tab=followers)
 
 </div>
 
@@ -40,7 +40,7 @@
 <div align="center">
 
 <!-- Streak card (the one that already works for you) -->
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Pranav970&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -74,9 +74,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav970/Pranav970/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranav970/Pranav970/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Pranav970/Pranav970/output/github-snake.svg" />
   </picture>
 </div>
 
